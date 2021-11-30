@@ -471,7 +471,7 @@ function buttonFabric(type) {
                 gameData.question = null
                 gameData.score = 0
                 gameData.index = 0
-                window.location.href = "https://felipelx.github.io/test-game/"
+                window.location.href = "https://deploy-personal-projects.github.io/quiz/"
             })
             
             return button
